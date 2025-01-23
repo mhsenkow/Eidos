@@ -1,5 +1,5 @@
 # Eidos
-just an art project
+just an art project, seeing what sort of tech stories I can get chatgpt to tell me. 
 
 Eidos: The Self-Healing, AI-Driven, VR-Native Operating System
 1. The Core Philosophy
